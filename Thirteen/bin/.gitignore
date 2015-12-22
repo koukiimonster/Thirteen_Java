@@ -1,0 +1,12 @@
+/Card$rank.class
+/Card$suit.class
+/Card.class
+/Deck.class
+/DeckTest.class
+/GUI.class
+/GUITest.class
+/Game.class
+/Hand.class
+/HandTest.class
+/NewHand.class
+/RuleSet.class
